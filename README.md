@@ -18,4 +18,10 @@
 ![image](https://user-images.githubusercontent.com/81863210/123089183-d0c55e80-d450-11eb-88a7-1838694b1da4.png)
 # Memasukan data penjualan detail
 ![image](https://user-images.githubusercontent.com/81863210/123089337-010cfd00-d451-11eb-8901-bbd895d99dbf.png)
-# 
+# Menggabungkan table dengan iner join
+![image](https://user-images.githubusercontent.com/81863210/123090977-ff443900-d452-11eb-98f9-d489327009a9.png)
+# Menggabungkan table dengan left join
+![image](https://user-images.githubusercontent.com/81863210/123091343-6e219200-d453-11eb-8d32-3cf4a721b4d7.png)
+# Menggabungkan table dengan right join
+![image](https://user-images.githubusercontent.com/81863210/123092236-7af2b580-d454-11eb-8dc0-985021735200.png)
+
